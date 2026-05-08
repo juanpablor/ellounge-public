@@ -1,0 +1,1 @@
+(self.webpackChunkEl_Lounge_Latin_Club=self.webpackChunkEl_Lounge_Latin_Club||[]).push([[522],{8522:function(){}}]);
